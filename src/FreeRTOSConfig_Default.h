@@ -46,7 +46,7 @@
  * -1 for heap_useNewlib_ST.c
  * Default -1 see heap.c
  */
-/*#define configMEMMANG_HEAP_NB             3*/
+#define configMEMMANG_HEAP_NB             3
 
 /* configUSE_CMSIS_RTOS_V2 has to be defined and set to 1 to use CMSIS-RTOSv2 */
 /*#define configUSE_CMSIS_RTOS_V2           1*/
